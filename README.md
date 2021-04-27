@@ -203,4 +203,4 @@ We will go into detail on what the `resources` method does in a future lesson.
 For right now, just know that it deals with the seven key RESTful routes. In
 this case, we limited it to only make the `show` action available.
 
-Run the tests for a final time, and they should still be passing! Nice work!
+Run the tests for a final time, and they should still be passing. Nice work!
